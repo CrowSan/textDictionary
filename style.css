@@ -1,0 +1,129 @@
+.body_dark{
+  margin: 0px;
+  padding: 0px;
+  filter: invert(0);
+  background-color: rgb(226, 225, 225)
+}
+
+body{
+  margin: 0px;
+  padding: 0px;
+  filter: invert(1);
+}
+
+main{
+  background-color: rgb(226, 225, 225);
+  width: auto;
+  height: auto;
+  padding: 100px;
+}
+.container{
+  background-color: #e9e9ed;
+  width: 80%;
+  padding: 10px 10px 20px 10px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin: 0px 10%;
+  margin-bottom: 50px;
+  font-family: iransans;
+  align-items: center;
+}
+
+.wrapper_container{
+  background-color: #e1e1e1;
+  width: 80%;
+  padding: 15px;
+  display: flex;
+  margin: 0% 8%;
+  border-radius: 5px;
+}
+
+.info{
+  width: 20%;
+  background-color: #f7f4f4;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+  overflow:visible;
+}
+
+.form_container{
+  display: flex;
+  flex-direction: column;
+  background-color: #cfcfcf;
+  margin: 5px;
+  padding: 30px 10px;
+  border-radius: 5px;
+  width: inherit;
+  gap:  20px;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+
+#newNL_json{
+  background-color: #e7e0e0;
+  border: 1px solid white;
+
+}
+
+.sub_btn{
+  background-color: black;
+  color: white;
+  width: 50%;
+  height: 2.5rem;
+  text-align: center;
+  justify-content: center;
+  margin: 0px 25%;
+  border-radius: 10px;
+}
+
+.result_btn:empty{
+  display: none;
+}
+
+.result_btn{
+  background-color: rgb(43, 47, 53);
+  color: rgb(231, 231, 231);
+  width: auto;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin-top: 20px;
+  padding: 1rem;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+
+.Selector_wrp{
+  background-color: #e9e9ed;
+  width: 80%;
+  padding: 10px 10px;
+  display: flex;
+  text-align: center;
+  margin: 0px 10%;
+  margin-bottom: 50px;
+  font-family: iransans;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.frmSelector{
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+}
+
+.frm_btn{
+  padding: 5px 10px;
+  font-family: iransans;
+  font-weight: bold;
+  border: none;
+  border-bottom: 2px dashed blueviolet;
+  background: none;
+  cursor: pointer;
+  border-radius: 5px;
+  box-shadow: 2px 6px 8px 0px #6f64641a;
+}

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="jquery.min.js"></script>
+    <script src="script.js"></script>
+    <title>noveleast toolbox</title>
+</head>
+<body class="body_dark">
+    <main>
+            <button class="mode">🌙</button>
+
+            <ul class="Selector_wrp">
+                <li class="frmSelector">
+                    <button class="frm_btn" id="frm_btn1">Create NameList</button>
+                </li>
+                <li class="frmSelector">
+                    <button class="frm_btn" id="frm_btn2">Add to NameList</button>
+                </li>
+                <li class="frmSelector">
+                    <button class="frm_btn" id="frm_btn3">Numbering Text</button>
+                </li>
+            </ul>
+
+                <div class="container newNL_frm">
+                    <!-- //width - gird - title - flex div(info and form) -->
+                    <h1>Namelist maker</h1>
+                    <div class="wrapper_container">
+                        <p class="info">
+                            this form helps you to make a <i>json name list</i> from a <b>txt file</b>. <br>
+                            pattern to follow:
+                            <b>Example:</b> noah++نوآ
+                            <b>En,(++), Fa</b><br> no space require. 
+                        </p>
+    
+                        <form class="form_container" name="newNL_frm" id="newNL_frm">
+                            <div class="select_file">
+                                <label for="txtNL">select file: </label>
+                                <input type="file" id="newNL_txt" name="newNL_txt">
+                            </div>
+                            <div>
+                                <label for="jsonNL">your json file name</label>
+                                <input type="text" id="newNL_json" name="newNL_json">
+                            </div>
+                            <input type="submit" class="sub_btn">
+                        </form>
+                        <!-- make_new_NameList_byOne($nameLisfile, $keyDivider, $valueDivider, $jsonFileName) -->
+    
+                    </div>
+                    <a href="" id="newNL_btn" class="result_btn"></a>
+                </div>
+    
+                <div class="container add2NL_frm">
+                    <!-- //width - gird - title - flex div(info and form) -->
+                    <h1>Add to old nameList</h1>
+                    <div class="wrapper_container">
+                        <p class="info">
+                            helps you to <b>Add New Names</b> to a existing NameList. <br>
+                            pattern to follow:
+                            <b>Example:</b> noah++نوآ
+                            <b>En,(++), Fa</b><br> no space require. 
+                        </p>
+    
+                        <form class="form_container" name="add2NL_frm" id="add2NL_frm">
+                            <div class="select_file">
+                                <label for="add2NL_txt">select TXT file: </label>
+                                <input type="file" name="add2NL_txt" id="add2NL_txt">
+                            </div>
+                            <div class="select_file">
+                                <label for="add2NL_json">select JSON file: </label>
+                                <input type="file" name="add2NL_json" id="add2NL_json">
+                            </div>
+                            <input type="submit" class="sub_btn">
+                        </form>
+                    </div>
+                    <a href="" id="add2NL_btn" class="result_btn"></a>
+                </div>
+    
+                <div class="container NumText_frm">
+                    <h1>Make Numbered Text</h1>
+                    <div class="wrapper_container">
+                        <p class="info">
+                            helps to <b>Add index number</b>  to your text file according to NameList. <br>
+                            notes to follow:<br>
+                            <b>TXT & JSON only</b><br>
+                            <b>do spaces alot</b><br>
+                        </p>
+    
+                        <form class="form_container" name="NumText_frm" id="NumText_frm">
+                            <div class="select_file">
+                                <label for="NumText_txt">select En TXT file: </label>
+                                <input type="file" name="NumText_txt" id="NumText_txt">
+                            </div>
+                            <div class="select_file">
+                                <label for="NumText_json">select NameList: </label>
+                                <input type="file" name="NumText_json" id="NumText_json">
+                            </div>
+                            <input type="submit" class="sub_btn">
+                        </form>
+                        <!-- make_Numbered_Text($enTextFile, $jsonNameList)-->
+    
+                    </div>
+                    <a href="" id="NumText_btn" class="result_btn"></a>
+                </div> 
+
+    </main>
+</body>
+</html>
