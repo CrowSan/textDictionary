@@ -6,6 +6,13 @@ body{
     align-items: center;
     align-content: center;
     justify-content: center;
+    background: linear-gradient(137deg, rgba(2, 0, 36, 1) 12%, rgba(9, 9, 121, 1) 60%, rgba(0, 86, 103, 1) 100%);
+    margin: 100px 91px;
+    color: white;
+    border: 1px solid;
+    box-shadow: 4px 5px 16px #00000052;
+    border-radius: 10px;
+    padding-bottom: 25px;
 }
 
 header{
