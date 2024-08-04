@@ -14,7 +14,7 @@
     </header>
     <main>
     <!-- enctype="multipart/form-data" -->
-        <form action="process.php" method="post" id="frmS1">
+        <form action="process.php" method="post" id="frmS1" enctype="multipart/form-data">
             <label for="">Select English File</label>
             <input type="file" name="frmS1Text" id="frmS1Text" accept=".txt" required>
             
