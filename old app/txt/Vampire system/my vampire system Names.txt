@@ -1,0 +1,292 @@
+quinn++کوئین
+talen++تالِن
+peter++پیتر
+chuck++ چاک
+vorden++وُردن
+layla++لایلا
+munro++مونرو
+dalky++دالکی
+griff++گریف
+erin++ارین
+heley++هیلی
+jane++جین
+orginal++اصیل
+pure++خالص
+del++دِل
+kyle main++کایل مِین
+mono++مونو
+rylee++رایلی
+heayley++هیلی
+earl++ارل
+ian++ایان
+berg++برگ
+fei++فی
+dan++دان
+leo++لئو
+brandon++برندون
+richardson++ریچاردسِن 
+inspect++ارزیابی
+blood lust++عطش خون
+blood swipe++ضربه خون
+blood bank++بانک خون
+transformation++تغییر شکل
+hardening++سخت شدن
+telekinesis++تلکنسیس
+loop++لوپ
+flash step++قدم رعدآسا
+blood spray++پاشش خون
+shadow void++خلاء سایه
+daze++گیجی
+blood crescent kick++ضربه هلال خون
+shadow cloak++شنل سایه
+shadow equip++تجهیز سایه
+shadow control++کنترل سایه
+blood hammer++چکش خون
+phanton punch++مشت شبح
+influence++نفوذ
+shadow eater++سایه‌خوار
+beast weapon++سلاح جانوری
+awakening++بیدارسازی
+black horned gauntlets++دستکش شاخ سیاه
+intermediate black horned wolf boots++چکمه‌های گرگ سیاه شاخ سطح متوسط
+market place++بازار فروش
+power fighter++پاور فایتر
+hammer strike++ضربه چکشی
+traveller++مسافر
+portal++پورتال 
+teleporter++تلپورتر
+player room++فضای بازیکن
+nate snell++نِیت اِسنل
+hardsteely++پولاد سخت 
+blood evolver++جهنده خون 
+richard eno++ریچارد اِنو
+portal++پورتال
+logan++لوگان
+rattaclaw++رت کلاو
+scordana++اسکوردانا
+intermediate level beast++جانور سطح متوسط
+skill++توانایی
+ability++مهارت
+bloodsucker++خونخوار
+beast++جانور
+beast weapon++سلاح جانوری
+advanced tier crystal++کریسال رده پیشرفته
+deathbat++خفاش مرگ
+wingedlizards++مارمولک بالدار
+teetheworms++کرم‌های دندون‌دار
+stat++امتیاز
+id++شناسه
+dimensional void++فضای ذخیره‌سازی
+vr pod++دستگاه واقعیت مجازی
+jane++جین
+beast core++هسته جانوری
+raten++راتن
+ian++ایان
+deathbat++خفاش مرگ
+hayley++هیلی
+edward++ادوارد
+cia++سیاه
+banshee++بَنشی
+dhampir++دمفیر
+truedream++ترودریم
+vampire knight++شوالیه خوناشام
+stats++آمار
+passive skill++مهارت فعال
+buff++باف
+knight's command++دستور شوالیه
+arthur++آرتور
+vincent++وینسنت
+punisher++مجازاتگر
+jim++جیم
+lee++لی
+fex++فکس
+leader++رهبر
+bryce++بریس
+eno++اِنو
+vadeen++
+blood energy blade++شمشیر انرژی خونین
+bone claw++بون کلاو
+xander++زاندر
+silver++سیلور
+suzan++سوزان
+david scutter++دیوید اسکاتر
+cindy cha++سیندی جا
+muka++موکا
+jin++جین
+sunny++سانی
+great council++شورای بزرگ
+amy++اِمی
+wind walk++گام باد
+planet++سیاره
+timmy++تیمی
+reputation points++امتیاز شهرت
+level++سطح
+quest++ماموریت
+level-up++افزایش سطح
+wight++وِیت
+clark++کلارک
+strength++قدرت
+agility++چابکی
+stamina++استقامت
+exp++تجربه
+hp++سلامتی
+rokene++روکنی
+user++کاربر
+mech suit++زره رباتیک
+evolution++تکامل
+flash step++گام رعد
+mc++ام‌سی
+blood wall++دیوار خون
+blood bullet++گلوله خون
+vampire noble++خوناشام نجیب
+shadow void++خلع سایه
+durability++ماندگاری
+honnari hannya++هوناری هانیا
+chunari hannya++چوناری هانیا
+spiritual chains++زنجیرهای روحی
+cursed family++خانواده نفرین شده
+blood ritual++آئین خونین
+suiyan++سوییان 
+beast crystal++کریستال جانوری
+transformation++تغییرشکل
+zac++زک
+resistance++مفاومت
+shadow eater++سایه‌خوار
+blood crystal++کریستال خونی
+blocking ring++حلقه محافظ
+energy weapon++سلاح انرژی
+ham++هَم
+phantom punch++ضربه شبح
+vr++واقعیت مجازی
+spirit spear++نیزه روح
+zombiep++زامبی‌پی
+vampire martial arts++هنرهای رزمی خوناشاممی
+dimensional space++فضای ابعادی
+critical hit++ضربه کشنده
+telepathic ability++توانایی تلپاتی
+spirit ability++توانایی روحی
+blood dome++گنبد خونین
+hilston blade++هیلستون بلید
+blade family++خانواده بلید
+jack++جک
+kenny++کنی
+duke++دوک
+nathan++نیتن
+hayley++هیلی
+dillan++دیلن
+alex++الکس
+bill++بیل
+james++جیمز
+taz++تز
+bart++بارت
+hannya++هانیا
+nate++نیم
+sam++سم
+burg++بِرگ
+blood evolver++جهنده خون
+mike++مایک
+owen++اوون
+burnie++برنی
+sil++سیل
+larry++لری
+zippy++زیپی
+vadeen++وادین
+gauntlet++دستکش
+lord++لرد
+siryu++سیریو
+siyrus++سیریوس
+raven++ریون
+oscar++اسکار
+descendant++نواده
+buinn++بویین
+clark++کلارک
+sergeant++گروهبان
+dillan++دیلن
+dojo++دوجو
+item++آیتم
+scanner++اسکنر
+pio++پیو
+organisation++سازمان
+fay++فی
+avatar++آواتار
+mona++مونا
+rover++روور
+sunshield++سپرخورشید
+platoon++جوخه
+richard++ریچارد
+dennis++دنیس
+tink++تینک
+sylvia++سیلویا
+megan++مگان
+mitchell++میشل
+kong++کونگ
+suze++سوز
+pomplee++پامپلی
+freddy++فردی
+hilly++هیلی
+linda++لیندا
+kazz++کز
+lieutenant++ستوان
+bugen++بوگن
+paul++پائول
+dwight++دوایت
+gavin++گاوین
+katie++کتی
+tonfa++تونفا
+mune++مونه
+helen++هلن
+ruler++پادشاه
+wevil++وویل
+spaceship++سفینه
+vicky++ویکی
+duncan++دانکن
+emperor++امپراتور
+brock++بروک
+caser++کایسر
+hilston++هیلستون
+pai++پای
+hector++هکتور
+kiln++کلین
+graylash++گریلش
+teleporter++انتقال‌گر
+riki++ریکی
+antenna++آتنا
+roe++رویی
+qi++چی
+basic tier++رده ابتدایی
+intermediate tier++رده متوسط
+advanced tier++رده پیشرفته
+king tier++رده پادشاه
+emperor tier++رده امپراتور
+legendary tier++رده افسانه‌ای
+demi- god tier++زده نیمه خدا
+demon tier++رده شیطان
+shoulder pads++شانه‌پوش
+chest piece++زره
+crow++کِرو
+founders++پایه‌گذاران
+blip++بلیپ
+soul weapon++سلاح روح
+enhancement type++نوع تقویتی
+hypocen++هیپوسین
+shadow ability++توانایی سایه
+tomb++مقبره
+shadow travel++سفر سایه
+mask++نقاب
+rebound++پس‌زدن
+phantom kick++ضربه شبح
+draugr++دراوگر
+charm++دلربایی
+sand ruler++پادشاه شن
+hana++هانا
+blood fairy++پری خون
+shadow lock++قفل سایه
+shadow path++مسیر سایه
+shadow on++اتصال سایه
+shadow space++فضای سایه
+chrimeta beast++جانور کیمرا
+solo warrior++مبارز تنها
+exp leecher++تجربه‌خوار
+blood shot++شلیک خون
+hammer strike++ضربه چکش
+shadow hop++جهش سایه

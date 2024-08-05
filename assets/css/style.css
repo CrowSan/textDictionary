@@ -1,0 +1,23 @@
+body{
+    font-family: system-ui;
+    background: darkolivegreen;
+    margin: 50px 50px;
+    color: white;
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.btn{
+    width: 30%;
+    margin-left: 35%;
+}

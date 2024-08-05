@@ -1,0 +1,8 @@
+#ignore upload folder
+upload/
+
+#igonre old app code folder
+old app/
+
+#ignore notes folder
+notes/

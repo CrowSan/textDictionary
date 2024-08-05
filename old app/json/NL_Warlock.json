@@ -1,0 +1,2090 @@
+{
+    " bai zemin": [
+        "bai zemin_بای زه مین",
+        0
+    ],
+    " meng qi": [
+        "meng qi_منگ چی",
+        1
+    ],
+    " lilith": [
+        "lilith_لیلیث",
+        2
+    ],
+    " jia jiao": [
+        "jia jiao_جیا جیائو",
+        4
+    ],
+    " shangguan bing xue": [
+        "shangguan bing xue_شانگوان",
+        5
+    ],
+    " chen he": [
+        "chen he_چن هه",
+        7
+    ],
+    " cai jingyi": [
+        "cai jingyi_سای جینگ یی",
+        8
+    ],
+    " fu xuefeng": [
+        "fu xuefeng_فو شوفنگ",
+        9
+    ],
+    " he yuhan": [
+        "he yuhan_هه یوهان",
+        10
+    ],
+    " xu fen": [
+        "xu fen_شو فن",
+        11
+    ],
+    " song qing": [
+        "song qing_سونگ چینگ",
+        12
+    ],
+    " li na": [
+        "li na_لی نا",
+        13
+    ],
+    " liang peng": [
+        "liang peng_لیانگ پنگ",
+        14
+    ],
+    " qiao long": [
+        "qiao long_چیائو لونگ",
+        15
+    ],
+    " xiao xiao": [
+        "xiao xiao_شیائو شیائو",
+        16
+    ],
+    " ming shui shui": [
+        "ming shui shui_مینگ شویی شویی",
+        17
+    ],
+    " wu yijun": [
+        "wu yijun_وو یی جون",
+        18
+    ],
+    " gao min": [
+        "gao min_گائو مین",
+        19
+    ],
+    " zeng na": [
+        "zeng na_ژنگ نا",
+        20
+    ],
+    " pei feng": [
+        "pei feng_پی فنگ",
+        21
+    ],
+    " xiao rong": [
+        "xiao rong_شیائو رونگ",
+        22
+    ],
+    " chen luochen": [
+        "chen luochen_چن لوشن",
+        23
+    ],
+    " mei xiao": [
+        "mei xiao_می شیائو",
+        24
+    ],
+    " nie yue": [
+        "nie yue_نی یوئه",
+        25
+    ],
+    " zi xiulan": [
+        "zi xiulan_زی شیولان",
+        26
+    ],
+    " kang lan": [
+        "kang lan_کانگ لان",
+        27
+    ],
+    " zhong de": [
+        "zhong de_ژونگ ده",
+        28
+    ],
+    " lian xuan": [
+        "lian xuan_لیان شوان",
+        29
+    ],
+    " ice goddess": [
+        "ice goddess_الهه یخی",
+        30
+    ],
+    " one hit to killer": [
+        "one hit to killer_قاتل تک ضرب",
+        31
+    ],
+    " armored car": [
+        "armored car_ماشین زره پوش",
+        32
+    ],
+    " nangong yi": [
+        "nangong yi_نان گونگ یی",
+        33
+    ],
+    " nangong lingxin": [
+        "nangong lingxin_نان گونگ لینگ شین",
+        34
+    ],
+    " xiao ming": [
+        "xiao ming_شیائو مینگ",
+        35
+    ],
+    " kang hong": [
+        "kang hong_کانگ هونگ",
+        36
+    ],
+    " lu yan": [
+        "lu yan_لو یان",
+        37
+    ],
+    " yan tu": [
+        "yan tu_یان تو",
+        38
+    ],
+    " boss lu": [
+        "boss lu_رئیس لو",
+        39
+    ],
+    " shan li": [
+        "shan li_شان لی",
+        40
+    ],
+    " xiaoyao": [
+        "xiaoyao_شیایائو",
+        42
+    ],
+    " luo cheng": [
+        "luo cheng_لوچنگ",
+        43
+    ],
+    " baiquan camp": [
+        "baiquan camp_کمپ بای چوان",
+        44
+    ],
+    " kang rong": [
+        "kang rong_کانگ رونگ",
+        45
+    ],
+    " wan jian": [
+        "wan jian_وان جیان",
+        46
+    ],
+    " xiang feng": [
+        "xiang feng_شیانگ فنگ",
+        47
+    ],
+    " yi fang": [
+        "yi fang_یی فانگ",
+        48
+    ],
+    " yanqing district": [
+        "yanqing district_منطقه یان چینگ",
+        49
+    ],
+    " changping district": [
+        "changping district_منطقه چیانگ پینگ",
+        50
+    ],
+    " rulin district": [
+        "rulin district_منطقه رولین",
+        51
+    ],
+    " unclassified beasts": [
+        "unclassified beasts_جانور دسته بندی نشده",
+        52
+    ],
+    " chief lu": [
+        "chief lu_رئیس لو",
+        53
+    ],
+    " evangeline": [
+        "evangeline_ایونجلین",
+        54
+    ],
+    " sirius constellation": [
+        "sirius constellation_صورت فلکی سیریوس",
+        55
+    ],
+    " gabriel": [
+        "gabriel_گابریل",
+        56
+    ],
+    " fu shuren": [
+        "fu shuren_فو شورن",
+        57
+    ],
+    " chu jiao": [
+        "chu jiao_چو جیائو",
+        58
+    ],
+    " ruo lan": [
+        "ruo lan_رو لان",
+        59
+    ],
+    " lightning fruit": [
+        "lightning fruit_میوه صاعقه",
+        60
+    ],
+    " thousand lightning plant": [
+        "thousand lightning plant_گیاه هزار صاعقه",
+        61
+    ],
+    " li yuan": [
+        "li yuan_لی یوان",
+        62
+    ],
+    " lord shan": [
+        "lord shan_ارباب شان",
+        63
+    ],
+    " ye fei": [
+        "ye fei_یی فی",
+        64
+    ],
+    " quan yang": [
+        "quan yang_چوان یانگ",
+        65
+    ],
+    " lim qiyue": [
+        "lim qiyue_لی چی یوئه",
+        66
+    ],
+    " yi yemin": [
+        "yi yemin_یی یه مین",
+        67
+    ],
+    " wang zedong": [
+        "wang zedong_وانگ زی دانگ",
+        68
+    ],
+    " yin kun": [
+        "yin kun_یین کون",
+        69
+    ],
+    " ice princess": [
+        "ice princess_پرنسس یخی",
+        70
+    ],
+    " luo ning": [
+        "luo ning_لو نینگ",
+        71
+    ],
+    " yang tu": [
+        "yang tu_یانگ تو",
+        72
+    ],
+    " fu qigang": [
+        "fu qigang_فو چی گانگ",
+        73
+    ],
+    " commander jin": [
+        "commander jin_فرمانده جین",
+        74
+    ],
+    " jin shun": [
+        "jin shun_جین شون",
+        75
+    ],
+    " bai wei": [
+        "bai wei_بای وی",
+        76
+    ],
+    " bai yong": [
+        "bai yong_بای یونگ",
+        77
+    ],
+    " bai jian": [
+        "bai jian_بای جیان",
+        78
+    ],
+    " shen mei": [
+        "shen mei_شن می",
+        79
+    ],
+    " silhouette": [
+        "silhouette_شبح",
+        80
+    ],
+    " inac": [
+        "inac_ایناک",
+        82
+    ],
+    " kurano": [
+        "kurano_کورانو",
+        83
+    ],
+    " lucifer": [
+        "lucifer_لوسیفر",
+        85
+    ],
+    " angels": [
+        "angels_فرستادگان",
+        86
+    ],
+    " crow": [
+        "crow_کرو",
+        87
+    ],
+    " hellscar": [
+        "hellscar_هِل اسکار",
+        88
+    ],
+    " archangel uriel": [
+        "archangel uriel_فرستاده ارشد اوریل",
+        90
+    ],
+    " dragon monarch": [
+        "dragon monarch_اژدها شاه",
+        91
+    ],
+    " fire sorrow": [
+        "fire sorrow_فایر ساروو",
+        92
+    ],
+    " bloody succubus": [
+        "bloody succubus_ساکیباس لعنتی",
+        93
+    ],
+    " ice goddess constellation": [
+        "ice goddess constellation_صورت فلکی یخی",
+        94
+    ],
+    " your majesty": [
+        "your majesty_اعلی حضرت",
+        95
+    ],
+    " rong tao": [
+        "rong tao_رونگ تائو",
+        96
+    ],
+    " lian ju": [
+        "lian ju_لیان جو",
+        97
+    ],
+    " kreir": [
+        "kreir_کریر",
+        98
+    ],
+    " abil": [
+        "abil_ابیل",
+        99
+    ],
+    " geminder": [
+        "geminder_گیمایندر",
+        100
+    ],
+    " hao li": [
+        "hao li_هائولی",
+        101
+    ],
+    " gu yuhan": [
+        "gu yuhan_گو یوهان",
+        102
+    ],
+    " ding ya": [
+        "ding ya_دینگ یا",
+        103
+    ],
+    " fan bo": [
+        "fan bo_فن بو",
+        104
+    ],
+    " shao meng": [
+        "shao meng_شائو منگ",
+        105
+    ],
+    " shao yang": [
+        "shao yang_شائو یانگ",
+        106
+    ],
+    " 17th team": [
+        "17th team_تیم هفدهم",
+        107
+    ],
+    " vampire king": [
+        "vampire king_خوناشام شاه",
+        108
+    ],
+    " eternal phoenix": [
+        "eternal phoenix_ققنوس جاودانه",
+        109
+    ],
+    " wolf emperor": [
+        "wolf emperor_گرگ امپراتور",
+        110
+    ],
+    " zombie ancestor": [
+        "zombie ancestor_جدِ زامبی",
+        111
+    ],
+    " star devourer": [
+        "star devourer_بلعنده ی ستاره",
+        112
+    ],
+    " gu tao": [
+        "gu tao_گوتائو",
+        113
+    ],
+    " old zhi": [
+        "old zhi_زیِ پیر",
+        114
+    ],
+    " xuanyuan wentian": [
+        "xuanyuan wentian_شوان یوان ونتیان",
+        115
+    ],
+    " equipping": [
+        "equipping_استفاده",
+        116
+    ],
+    " cast": [
+        "cast_اجرا",
+        117
+    ],
+    " item": [
+        "item_آیتم",
+        118
+    ],
+    " rank 2": [
+        "rank 2_رتبه ۲",
+        119
+    ],
+    " zolian world": [
+        "zolian world_دنیای زولیان",
+        120
+    ],
+    " the caster": [
+        "the caster_جادوگر",
+        121
+    ],
+    " caster": [
+        "caster_جادوگر",
+        122
+    ],
+    " lady": [
+        "lady_بانو",
+        123
+    ],
+    " normal citizens": [
+        "normal citizens_شهروند معمولی",
+        124
+    ],
+    " noble citizens": [
+        "noble citizens_شهروند اشرافی",
+        125
+    ],
+    " royalty": [
+        "royalty_سلطنتی",
+        126
+    ],
+    " beast": [
+        "beast_موجود",
+        127
+    ],
+    " passive skills": [
+        "passive skills_مهارت های خودکار",
+        128
+    ],
+    " active skill": [
+        "active skill_مهارت های فعال",
+        129
+    ],
+    " first order skill": [
+        "first order skill_مهارت مرتبه اول ",
+        130
+    ],
+    " points": [
+        "points_امتیازات",
+        131
+    ],
+    " soul power": [
+        "soul power_قدرت روح",
+        132
+    ],
+    " soul stones": [
+        "soul stones_سنگ های روح",
+        133
+    ],
+    " soul stone": [
+        "soul stone_سنگ روح",
+        134
+    ],
+    " first order scale": [
+        "first order scale_فلس مرتبه اول",
+        135
+    ],
+    " little brother": [
+        "little brother_برادر کوچک",
+        136
+    ],
+    " third order existences": [
+        "third order existences_موجودات مرتبه سوم",
+        137
+    ],
+    " fourth order existences": [
+        "fourth order existences_موجودات مرتبه چهارم",
+        138
+    ],
+    " fifth order existences": [
+        "fifth order existences_موجودات مرتبه پنجم",
+        139
+    ],
+    " sixht order existences": [
+        "sixht order existences_موجودات مرتبه ششم",
+        140
+    ],
+    " second order existences": [
+        "second order existences_موجودات مرتبه دوم",
+        141
+    ],
+    " first order existences": [
+        "first order existences_موجودات مرتبه اول",
+        142
+    ],
+    " lower existence": [
+        "lower existence_موجودات رده پایین",
+        143
+    ],
+    " higher existences": [
+        "higher existences_موجودات رده بالا",
+        144
+    ],
+    " survivors": [
+        "survivors_بازماندگان",
+        145
+    ],
+    " armed men": [
+        "armed men_افراد نظامی",
+        146
+    ],
+    " he nodded": [
+        "he nodded_سرش را به نشان موافقت تکان داد",
+        147
+    ],
+    " physical attack power": [
+        "physical attack power_قدرت ضربه فیزیکی",
+        148
+    ],
+    " fire- type damage": [
+        "fire- type damage_آسیب نوع آتش",
+        149
+    ],
+    " durability": [
+        "durability_ماندگاری",
+        150
+    ],
+    " the asura emperor": [
+        "the asura emperor_امپراتورِ آشورا",
+        151
+    ],
+    " asura emperor": [
+        "asura emperor_امپراتور آشورا",
+        152
+    ],
+    " emperor": [
+        "emperor_امپراتور",
+        153
+    ],
+    " the lord angel": [
+        "the lord angel_لردِ آسمانی",
+        154
+    ],
+    " lord angel": [
+        "lord angel_لرد آسمانی",
+        155
+    ],
+    " thannath": [
+        "thannath_تاناث",
+        156
+    ],
+    " luciah": [
+        "luciah_لوسیا",
+        157
+    ],
+    " valianth": [
+        "valianth_والیانس",
+        158
+    ],
+    " the demonic army": [
+        "the demonic army_ارتشِ شیاطین",
+        159
+    ],
+    " demonic army": [
+        "demonic army_ارتش شیاطین",
+        160
+    ],
+    " lower leader subclass": [
+        "lower leader subclass_زیرکلاس رهبر سطح پایین",
+        161
+    ],
+    " lower leader": [
+        "lower leader_رهبر سطح پایین",
+        162
+    ],
+    " modified vehicles": [
+        "modified vehicles_ماشین های تقویت شده",
+        163
+    ],
+    " modified vehicle": [
+        "modified vehicle_ماشین تقویت شده",
+        164
+    ],
+    " the bloody scene": [
+        "the bloody scene_بلودی سین",
+        165
+    ],
+    " bloody scene": [
+        "bloody scene_ببلودی سین",
+        166
+    ],
+    " ifvs": [
+        "ifvs_نفربرها",
+        167
+    ],
+    " ifv": [
+        "ifv_نفربر",
+        168
+    ],
+    " beasts": [
+        "beasts_موجودات",
+        169
+    ],
+    " war cry": [
+        "war cry_غرش جنگی",
+        170
+    ],
+    " lonely wolf aura": [
+        "lonely wolf aura_هاله گرگ تنها",
+        171
+    ],
+    " magic break": [
+        "magic break_باطل کننده ی جادو",
+        172
+    ],
+    " subclass": [
+        "subclass_زیرکلاس",
+        173
+    ],
+    " healers": [
+        "healers_درمانگر ها",
+        176
+    ],
+    " the mutated plants": [
+        "the mutated plants_گیاهان جهش  یافته",
+        177
+    ],
+    " the mutated plant": [
+        "the mutated plant_گیاه جهش یافته",
+        178
+    ],
+    " mutated plant": [
+        "mutated plant_گیاه جهش یافته",
+        179
+    ],
+    " archangels": [
+        "archangels_فرستاده ارشد",
+        180
+    ],
+    " army of heaven": [
+        "army of heaven_ارتش آسمان",
+        181
+    ],
+    " the god": [
+        "the god_یزدان",
+        182
+    ],
+    " apocalypse": [
+        "apocalypse_آخرالزمان",
+        183
+    ],
+    " storm assassin": [
+        "storm assassin_قاتل توفان",
+        184
+    ],
+    " soul record": [
+        "soul record_ثبت روح",
+        185
+    ],
+    " sleeping mana": [
+        "sleeping mana_مانای خفته",
+        186
+    ],
+    " energy consumption": [
+        "energy consumption_مصرف انرژی",
+        187
+    ],
+    " status points": [
+        "status points_امتیاز آماری",
+        188
+    ],
+    " level": [
+        "level_سطح",
+        189
+    ],
+    " agility": [
+        "agility_چابکی",
+        190
+    ],
+    " intelligence": [
+        "intelligence_هوش و خرد",
+        191
+    ],
+    " strength": [
+        "strength_قدرت",
+        192
+    ],
+    " magic": [
+        "magic_جادو",
+        193
+    ],
+    " stamina": [
+        "stamina_استقامت",
+        194
+    ],
+    " life force": [
+        "life force_انرژی حیات",
+        195
+    ],
+    " health": [
+        "health_سلامتی",
+        196
+    ],
+    " normal grade": [
+        "normal grade_گنج درجه معمولی",
+        197
+    ],
+    " rare grade": [
+        "rare grade_گنج درجه کمیاب",
+        198
+    ],
+    " magic grade": [
+        "magic grade_گنج درجه جادویی",
+        199
+    ],
+    " epic grade": [
+        "epic grade_گنج درجه حماسی",
+        200
+    ],
+    " legend grade": [
+        "legend grade_گنج درجه افسانه ای",
+        201
+    ],
+    " semi god grade": [
+        "semi god grade_گنج درجه نیمه یزدان",
+        202
+    ],
+    " god grade": [
+        "god grade_گنج درجه یزدان",
+        203
+    ],
+    " red orb": [
+        "red orb_گوی قرمز",
+        204
+    ],
+    " orange orb": [
+        "orange orb_گوی نارنجی",
+        205
+    ],
+    " yellow orb": [
+        "yellow orb_گوی زرد",
+        206
+    ],
+    " green orb": [
+        "green orb_گوی سبز",
+        207
+    ],
+    " cyan orb": [
+        "cyan orb_گوی فیروزه ای",
+        208
+    ],
+    " indigo orb": [
+        "indigo orb_گوی نیلی",
+        209
+    ],
+    " violet orb": [
+        "violet orb_گوی بنفش",
+        210
+    ],
+    " swordsman": [
+        "swordsman_شمشیرزن",
+        211
+    ],
+    " mage": [
+        "mage_جادوگر",
+        212
+    ],
+    " assassin": [
+        "assassin_قاتل",
+        213
+    ],
+    " blacksmith": [
+        "blacksmith_آهنگر",
+        215
+    ],
+    " martial warrior": [
+        "martial warrior_مبارز هنرهای رزمی",
+        216
+    ],
+    " blood berserker's wrath": [
+        "blood berserker's wrath_جنون دیوانه خون",
+        217
+    ],
+    " blood berserker": [
+        "blood berserker_دیوانه خون",
+        218
+    ],
+    " hidden effect": [
+        "hidden effect_اثر مخفی",
+        219
+    ],
+    " external active skills": [
+        "external active skills_مهارت فعال خارجی",
+        220
+    ],
+    " firmament fragment": [
+        "firmament fragment_قطعه آسمانی",
+        221
+    ],
+    " assault rifle": [
+        "assault rifle_اسلحه نظامی",
+        222
+    ],
+    " magic circle": [
+        "magic circle_دایره جادویی",
+        223
+    ],
+    " cooldown": [
+        "cooldown_زمان بازاستفاده",
+        224
+    ],
+    " skill scroll": [
+        "skill scroll_طومار مهارت",
+        225
+    ],
+    " unclassified passive skill": [
+        "unclassified passive skill_مهارت فعال طبقه بندی ندشته",
+        227
+    ],
+    " equipping this item": [
+        "equipping this item_استفاده از این آیتم",
+        228
+    ],
+    " magic spells": [
+        "magic spells_طلسم جادویی",
+        229
+    ],
+    " passive skill danger sense": [
+        "passive skill danger sense_مهارت خودکار احساس خطر",
+        230
+    ],
+    " evolved beast": [
+        "evolved beast_موجود تکامل یافته",
+        231
+    ],
+    " mutated beast": [
+        "mutated beast_موجود جهش یافته",
+        232
+    ],
+    " rubber- coated beast": [
+        "rubber- coated beast_جانور خز لاستیکی",
+        233
+    ],
+    " wild beast": [
+        "wild beast_جانور وحشی",
+        234
+    ],
+    " bloodthirsty beast": [
+        "bloodthirsty beast_جانور خون خوار",
+        235
+    ],
+    " soul pact": [
+        "soul pact_عهد روح",
+        236
+    ],
+    " portal": [
+        "portal_پورتال",
+        237
+    ],
+    " factions": [
+        "factions_حزب ها",
+        238
+    ],
+    " faction": [
+        "faction_حزب",
+        239
+    ],
+    " battalion": [
+        "battalion_گردان",
+        240
+    ],
+    " leader of the second battalion": [
+        "leader of the second battalion_رهبر گردان دوم",
+        241
+    ],
+    " blood spear legion": [
+        "blood spear legion_هنگ نیزه خونین",
+        243
+    ],
+    " blood sword legion": [
+        "blood sword legion_هنگ شمشیر خونین",
+        244
+    ],
+    " first brigade": [
+        "first brigade_شاخه اول",
+        245
+    ],
+    " supreme leader": [
+        "supreme leader_رهبر ارشد",
+        246
+    ],
+    " captain": [
+        "captain_کاپیتان",
+        247
+    ],
+    " vice captain": [
+        "vice captain_معاون کاپیتان",
+        248
+    ],
+    " lieutenant": [
+        "lieutenant_ستوان",
+        249
+    ],
+    " sergeant": [
+        "sergeant_گروهبان",
+        250
+    ],
+    " comrades": [
+        "comrades_هم رزم",
+        251
+    ],
+    " mystic": [
+        "mystic_عرفانی",
+        253
+    ],
+    " irregular": [
+        "irregular_غیرعادی",
+        254
+    ],
+    " blood manipulation skill": [
+        "blood manipulation skill_مهارت دستکاری خون",
+        255
+    ],
+    " blood manipulation": [
+        "blood manipulation_دستکاری خون",
+        256
+    ],
+    " ice maker skill": [
+        "ice maker skill_مهارت یخ ساز",
+        257
+    ],
+    " ice maker": [
+        "ice maker_یخ ساز",
+        258
+    ],
+    " stone heart": [
+        "stone heart_قلب سنگی",
+        259
+    ],
+    " whirlwind of blades": [
+        "whirlwind of blades_گردبادی از تغیه",
+        260
+    ],
+    " air cannon": [
+        "air cannon_توپ هوایی",
+        261
+    ],
+    " ice pikes": [
+        "ice pikes_نیزهای یخی",
+        262
+    ],
+    " melee skill": [
+        "melee skill_نهارت تن به تن",
+        263
+    ],
+    " health boost": [
+        "health boost_تقویت سلامتی",
+        264
+    ],
+    " special forces soldier": [
+        "special forces soldier_سرباز نیرهای ویژه",
+        265
+    ],
+    " air manipulation": [
+        "air manipulation_دستکاری هوا",
+        266
+    ],
+    " elephant skin": [
+        "elephant skin_پوست فیل",
+        267
+    ],
+    " bronze skin": [
+        "bronze skin_پوست برنزی",
+        268
+    ],
+    " skill roll": [
+        "skill roll_طومار مهارت",
+        269
+    ],
+    " agility boost": [
+        "agility boost_تقویت سرعت",
+        272
+    ],
+    " power boost": [
+        "power boost_تقویت قدرت",
+        273
+    ],
+    " repair": [
+        "repair_تعمیر",
+        274
+    ],
+    " passive skill": [
+        "passive skill_مهارت فعال",
+        276
+    ],
+    " critical hit": [
+        "critical hit_ضربه ی کشنده",
+        277
+    ],
+    " skill scrolls": [
+        "skill scrolls_طومار مهارت ها",
+        279
+    ],
+    " evolution requirements": [
+        "evolution requirements_نیازمندی های ارتقاء",
+        280
+    ],
+    " blazing blood spear": [
+        "blazing blood spear_نیزه خونی فروزان",
+        281
+    ],
+    " crimson blood judgment": [
+        "crimson blood judgment_قضاوت خون سرخ",
+        282
+    ],
+    " death's kiss": [
+        "death's kiss_بوسه مرگ",
+        283
+    ],
+    " freezing binding": [
+        "freezing binding_محدودیت یخی",
+        284
+    ],
+    " energy barrier": [
+        "energy barrier_حصار انرژی",
+        285
+    ],
+    " barbarian strength": [
+        "barbarian strength_قدرت دیوانه",
+        286
+    ],
+    " healing": [
+        "healing_درمان",
+        287
+    ],
+    " lightning movement skill": [
+        "lightning movement skill_مهارت حرکت صاعقه",
+        288
+    ],
+    " lightning movement": [
+        "lightning movement_حرکت صاعقه",
+        289
+    ],
+    " venomous healer": [
+        "venomous healer_درمانگر زهراگین",
+        290
+    ],
+    " shadow blink": [
+        "shadow blink_جهش سایه",
+        291
+    ],
+    " unstoppable front charge": [
+        "unstoppable front charge_یورش غیرقابل توقف",
+        292
+    ],
+    " skadi's will": [
+        "skadi's will_اراده اسکادی",
+        293
+    ],
+    " superhuman health": [
+        "superhuman health_سلامتی فرا انسانی",
+        294
+    ],
+    " thousand thorn snake": [
+        "thousand thorn snake_مار هزار خار",
+        295
+    ],
+    " niflheim": [
+        "niflheim_نیلهایم",
+        296
+    ],
+    " werewolf transformation": [
+        "werewolf transformation_تغییرشکل گرگینه",
+        297
+    ],
+    " scaled lizard transformation": [
+        "scaled lizard transformation_تغییرشکل سوسمار فلس دار",
+        298
+    ],
+    " perception": [
+        "perception_ادراک",
+        299
+    ],
+    " blood will": [
+        "blood will_اراده خون",
+        300
+    ],
+    " speed boost": [
+        "speed boost_تقویت سرعت",
+        301
+    ],
+    " blood weapons": [
+        "blood weapons_سلاح خونی",
+        302
+    ],
+    " crimson blood flame": [
+        "crimson blood flame_شعله خون سرخ",
+        303
+    ],
+    " throwing skill": [
+        "throwing skill_مهارت پرتاب",
+        304
+    ],
+    " lightning chain": [
+        "lightning chain_زنجیره ی صاعقه",
+        305
+    ],
+    " silver skin": [
+        "silver skin_پوست نقره ای",
+        306
+    ],
+    " cat's eyes": [
+        "cat's eyes_چشمان گربه ای",
+        307
+    ],
+    " endless blue lotus flame": [
+        "endless blue lotus flame_آتش بی پایان آبی",
+        308
+    ],
+    " ice bastion": [
+        "ice bastion_سنگر یخی",
+        310
+    ],
+    " enhanced drill": [
+        "enhanced drill_تقویت شلیک",
+        311
+    ],
+    " triple arrow": [
+        "triple arrow_تیر سه گانه",
+        312
+    ],
+    " frozen slide": [
+        "frozen slide_لغزش یخ",
+        313
+    ],
+    " lesser energy generator": [
+        "lesser energy generator_تولید کنند انرژی سطح پایین",
+        314
+    ],
+    " suffocating toxin": [
+        "suffocating toxin_سم خفه کننده",
+        315
+    ],
+    " frost rebuff": [
+        "frost rebuff_بازتقویت سرما",
+        316
+    ],
+    " beast strength": [
+        "beast strength_قدرت جانوری",
+        317
+    ],
+    " invisibility": [
+        "invisibility_اختفاء",
+        319
+    ],
+    " gravity manipulation": [
+        "gravity manipulation_دست کاری جاذبه",
+        320
+    ],
+    " mechanic": [
+        "mechanic_مکانیک",
+        321
+    ],
+    " throwing": [
+        "throwing_پرتاب",
+        322
+    ],
+    " blacksmithing": [
+        "blacksmithing_آهنگری",
+        323
+    ],
+    " treant defender summon": [
+        "treant defender summon_احضار درخت زاد",
+        324
+    ],
+    " blood mystic": [
+        "blood mystic_خون عرفانی",
+        325
+    ],
+    " inner heart": [
+        "inner heart_حرف قلب",
+        326
+    ],
+    " space storage ring": [
+        "space storage ring_حلقه فضای ذخیره سازی",
+        327
+    ],
+    " xuanyuan sword": [
+        "xuanyuan sword_شمشیر شوان یوان",
+        328
+    ],
+    " agarth dagger": [
+        "agarth dagger_خنجر آگارث",
+        329
+    ],
+    " treasure orb": [
+        "treasure orb_گوی گنجینه",
+        330
+    ],
+    " velocity boots": [
+        "velocity boots_چکمه های سرعتی",
+        331
+    ],
+    " broken bronze bell": [
+        "broken bronze bell_زنگ برنزی شکسته",
+        332
+    ],
+    " full coat": [
+        "full coat_کت کامل",
+        333
+    ],
+    " piercing glove": [
+        "piercing glove_دستکش سوراخ کننده",
+        334
+    ],
+    " rejection ring": [
+        "rejection ring_حلقه ی پس زننده",
+        336
+    ],
+    " skull breaking hammer": [
+        "skull breaking hammer_چکش جمجمه کوب",
+        337
+    ],
+    " quick crossbow": [
+        "quick crossbow_کمان صلیبی سریع",
+        338
+    ],
+    " combat robe": [
+        "combat robe_ردای مبارزه",
+        339
+    ],
+    " hurricane necklace": [
+        "hurricane necklace_گردنبند طوفان",
+        340
+    ],
+    " power gloves": [
+        "power gloves_دستکش های قدرت",
+        341
+    ],
+    " draughtbane dagger": [
+        "draughtbane dagger_خنجر دراتبین",
+        342
+    ],
+    " earth ring": [
+        "earth ring_حلقه زمین",
+        343
+    ],
+    " arachnid silk ring": [
+        "arachnid silk ring_حلقه ی ابریشم عنکبوتی",
+        344
+    ],
+    " frost ring": [
+        "frost ring_حلقه ی انجماد",
+        345
+    ],
+    " blazing scale greatsword": [
+        "blazing scale greatsword_شمشیر بزرگ فلس فروزان",
+        346
+    ],
+    " blazing ring": [
+        "blazing ring_حلقه فروزان",
+        347
+    ],
+    " earth bracelet": [
+        "earth bracelet_دستبند زمین",
+        348
+    ],
+    " pair of velocity boots": [
+        "pair of velocity boots_چکمه های تقویت سرعت",
+        349
+    ],
+    " three mouthed bone crossbow": [
+        "three mouthed bone crossbow_کمان صلیبی سه دهانه استخوان",
+        350
+    ],
+    " magic boost staff": [
+        "magic boost staff_عصای تقویت جادو",
+        351
+    ],
+    " walker freezing staff": [
+        "walker freezing staff_عصای منجمدکننده پیشرو",
+        352
+    ],
+    " ice plate pants": [
+        "ice plate pants_شلوار یخی",
+        353
+    ],
+    " frozen aura breastplate": [
+        "frozen aura breastplate_زره سینه هاله یخی",
+        354
+    ],
+    " frozen winter sword": [
+        "frozen winter sword_شمشیر زمستان یخی",
+        355
+    ],
+    " seal flame scabbard": [
+        "seal flame scabbard_غلاف مهرکننده آتش",
+        356
+    ],
+    " shadow wolf cloak": [
+        "shadow wolf cloak_ردای گرگ سایه",
+        357
+    ],
+    " bright armored shoulder pads": [
+        "bright armored shoulder pads_زره شانه پوش درخشان",
+        358
+    ],
+    " skull breaker glove": [
+        "skull breaker glove_دستکش جمجمه شکن",
+        359
+    ],
+    " bloodthirsty wolf armor": [
+        "bloodthirsty wolf armor_زره گرگ خونخوار",
+        360
+    ],
+    " rending wolf pants": [
+        "rending wolf pants_شلوار گرگ درنده",
+        361
+    ],
+    " rending wolf chestplate": [
+        "rending wolf chestplate_زره سینه گرگِ درنده",
+        362
+    ],
+    " bloodthirsty wolf full body armor": [
+        "bloodthirsty wolf full body armor_زره تمام تنه ی گرگ خونخوار",
+        363
+    ],
+    " steel tooth dagger": [
+        "steel tooth dagger_خنجر دندان آهنی",
+        364
+    ],
+    " claymore": [
+        "claymore_کلیمور",
+        365
+    ],
+    " liquid storage jewel": [
+        "liquid storage jewel_جواهر ذخیره ساز مایع",
+        366
+    ],
+    " luminous ice armor": [
+        "luminous ice armor_زره یخی درخشان",
+        367
+    ],
+    " construction plan": [
+        "construction plan_نقشه ساخت",
+        368
+    ],
+    " water animation ring": [
+        "water animation ring_حلقه ی حرکت آب",
+        369
+    ],
+    " empowering necklace": [
+        "empowering necklace_گردن بند تقویت گر",
+        370
+    ],
+    " binding bracelet": [
+        "binding bracelet_دست بند محدودگر",
+        371
+    ],
+    " anti- magic necklace": [
+        "anti- magic necklace_گردن بند ضد جادو",
+        372
+    ],
+    " electromagnetic rail gun": [
+        "electromagnetic rail gun_ریل گان الکترومغناطیسی",
+        373
+    ],
+    " construction plan fragment": [
+        "construction plan fragment_قطعه ی نقشه ساخت",
+        374
+    ],
+    " mystic earring": [
+        "mystic earring_گوشواره عرفانی",
+        375
+    ],
+    " boots of ending sorrow": [
+        "boots of ending sorrow_چکمه های پایان دهنده ی غم",
+        376
+    ],
+    " green defender ring": [
+        "green defender ring_حلقه ی دفاعی سبز",
+        377
+    ],
+    " purple end bracelet": [
+        "purple end bracelet_دستبند انتها بنفس",
+        378
+    ],
+    " remnant inner 'heart' mirror": [
+        "remnant inner 'heart' mirror_آینه روایت گر قلب",
+        379
+    ],
+    " goblin magic cannon": [
+        "goblin magic cannon_توپ جادویی گابلین",
+        380
+    ],
+    " blazing beetle": [
+        "blazing beetle_سوسک فروزان",
+        381
+    ],
+    " normal zombie": [
+        "normal zombie_زامبی معمولی",
+        382
+    ],
+    " strength zombie": [
+        "strength zombie_زامبی قدرت",
+        383
+    ],
+    " platinum ape": [
+        "platinum ape_میمون پلاتینیومی",
+        384
+    ],
+    " big bee": [
+        "big bee_زنبور بزرگ",
+        385
+    ],
+    " great fast mantis": [
+        "great fast mantis_مانتیس سریع بزرگ",
+        386
+    ],
+    " mutated dog": [
+        "mutated dog_سگ جهش یافته",
+        387
+    ],
+    " skinned zombie blue": [
+        "skinned zombie blue_زامبی آبی",
+        388
+    ],
+    " great mutated cat": [
+        "great mutated cat_گربه جهش یافته بزرگ",
+        389
+    ],
+    " shadow tiger": [
+        "shadow tiger_ببر تاریکی",
+        390
+    ],
+    " zombie wall breaker": [
+        "zombie wall breaker_زامبی تخریب گر",
+        391
+    ],
+    " anti-magic zombie": [
+        "anti-magic zombie_زامبی ضدجادو",
+        392
+    ],
+    " mana embryo": [
+        "mana embryo_کرم مانا",
+        393
+    ],
+    " spiny dog": [
+        "spiny dog_سگ خاردار",
+        394
+    ],
+    " jiao-lao snake": [
+        "jiao-lao snake_مار جیائو لائو",
+        395
+    ],
+    " blood sucking bee": [
+        "blood sucking bee_زنبور خون خوار",
+        396
+    ],
+    " giant elephant beetle": [
+        "giant elephant beetle_سوسک فیل غول پیکر",
+        397
+    ],
+    " flaming snake": [
+        "flaming snake_مار آتشین",
+        398
+    ],
+    " vicious boar": [
+        "vicious boar_گزار بی رحم",
+        399
+    ],
+    " heavenly wolf": [
+        "heavenly wolf_گرگ آسمانی",
+        400
+    ],
+    " archaic bear": [
+        "archaic bear_خرس کهن",
+        401
+    ],
+    " frost control lion": [
+        "frost control lion_شیر کنترل گر",
+        402
+    ],
+    " oblon world": [
+        "oblon world_جهان اوبلون",
+        403
+    ],
+    " asura": [
+        "asura_آشورا",
+        405
+    ],
+    " mana points": [
+        "mana points_امتیازات مانا",
+        418
+    ],
+    " mana point": [
+        "mana point_امتیاز مانا",
+        419
+    ],
+    " crimson flame": [
+        "crimson flame_شلعه ی سرخ",
+        429
+    ],
+    " unique skill": [
+        "unique skill_مهارت منحصر به فرد",
+        431
+    ],
+    " god of war": [
+        "god of war_خدای جنگ",
+        432
+    ],
+    " order": [
+        "order_مرتبه",
+        433
+    ],
+    " charming eyes": [
+        "charming eyes_چشم های دل ربا",
+        436
+    ],
+    " sacred word": [
+        "sacred word_کلمات مقدس",
+        437
+    ],
+    " all for one": [
+        "all for one_همه برای یکی",
+        438
+    ],
+    " overlap regeneration": [
+        "overlap regeneration_احیای مجدد",
+        439
+    ],
+    " danger sense skill": [
+        "danger sense skill_مهارت احساس خطر",
+        440
+    ],
+    " danger sense": [
+        "danger sense_احساس خطر",
+        441
+    ],
+    " beiqijia": [
+        "beiqijia_بی چی جا",
+        442
+    ],
+    " qin ming": [
+        "qin ming_چین مینگ",
+        444
+    ],
+    " cui cun": [
+        "cui cun_کویی کان",
+        445
+    ],
+    " reflect": [
+        "reflect_بازتاب",
+        446
+    ],
+    " hit critical hit": [
+        "hit critical hit_ضربه ی شاخص بحرانی",
+        447
+    ],
+    " xian mei'er": [
+        "xian mei'er_شیان مایر",
+        448
+    ],
+    " immune blood": [
+        "immune blood_محافظ خونین",
+        449
+    ],
+    " liao su": [
+        "liao su_لیائو سو",
+        450
+    ],
+    " annihilation of falling sky": [
+        "annihilation of falling sky_جهنم نابودگر آسمانی",
+        451
+    ],
+    " regeneration": [
+        "regeneration_احیای",
+        452
+    ],
+    " thunder infinite reduction": [
+        "thunder infinite reduction_صاعقه ی احیای بی پایان",
+        453
+    ],
+    " crimson thunder dragon": [
+        "crimson thunder dragon_صاعقه ی اژدهای خونین",
+        454
+    ],
+    " spectral dread": [
+        "spectral dread_تشعشع وحشت",
+        455
+    ],
+    " tentacled zombie": [
+        "tentacled zombie_زامبی شاخکی",
+        456
+    ],
+    " glineria": [
+        "glineria_گلینریا",
+        457
+    ],
+    " elf queen's frozen pride": [
+        "elf queen's frozen pride_غرور یخ زده ی ملکه ی الف ها",
+        458
+    ],
+    " immortal bloodlust": [
+        "immortal bloodlust_جناح خونخواه ابدی",
+        459
+    ],
+    " doom roar": [
+        "doom roar_دووم روار",
+        460
+    ],
+    " goblin": [
+        "goblin_گابلین",
+        461
+    ],
+    " kong jun": [
+        "kong jun_کانگ جون",
+        462
+    ],
+    " apocalyptic ant": [
+        "apocalyptic ant_مورچه پایانی",
+        463
+    ],
+    " loyal follower": [
+        "loyal follower_همراهان وفادار",
+        464
+    ],
+    " subclass ‘marquis’": [
+        "subclass ‘marquis’_زیرکلاس مارکیز",
+        465
+    ],
+    " leader-type": [
+        "leader-type_نوع رهبر",
+        466
+    ],
+    " xia ya": [
+        "xia ya_شیایا",
+        467
+    ],
+    " bai delan": [
+        "bai delan_بای دلان",
+        468
+    ],
+    " flying warship": [
+        "flying warship_کشتی جنگی پرنده",
+        469
+    ],
+    " teleport": [
+        "teleport_تله‌پورت",
+        470
+    ],
+    " ‌sky destroyer": [
+        "sky destroyer_نابودگر آسمان",
+        471
+    ],
+    " ye linger": [
+        "ye linger_یی لینگر",
+        472
+    ],
+    " soul evolver": [
+        "soul evolver_تکامل دهنده‌های روح",
+        473
+    ],
+    " ‌ wu keqian": [
+        "wu keqian_وو کچیان",
+        474
+    ],
+    " chinese renaissance faction": [
+        "chinese renaissance faction_جبهه رنساسن چین",
+        475
+    ],
+    " transcendent faction": [
+        "transcendent faction_جبهه متعالیان",
+        476
+    ],
+    " zeppelin": [
+        "zeppelin_کشتی‌هوایی",
+        477
+    ],
+    " ‌lonely wolf aura": [
+        "lonely wolf aura_هاله گرگ تنها",
+        478
+    ],
+    " god of war’s partial possession": [
+        "god of war’s partial possession_فعال‌سازی خدای جنگ جزئی",
+        479
+    ],
+    " ‌   bloodlust": [
+        "bloodlust_عطش خون",
+        480
+    ],
+    " god of war’s will": [
+        "god of war’s will_اراده خدای جنگ",
+        481
+    ],
+    " galactic bull": [
+        "galactic bull_گاو کهکشانی",
+        482
+    ],
+    " abyssal claw bear": [
+        "abyssal claw bear_خرس پنجه تاریکی",
+        483
+    ],
+    " dragon transformation": [
+        "dragon transformation_تغییرشکل اژدها",
+        484
+    ],
+    " shi lin": [
+        "shi lin_شی لین",
+        485
+    ],
+    " clairvoyance": [
+        "clairvoyance_روشن‌بینی",
+        486
+    ],
+    " ‌skill scroll": [
+        "skill scroll_طومار مهارت",
+        487
+    ],
+    " ice world": [
+        "ice world_جهان یخی",
+        488
+    ],
+    " blood berserker’s wrath": [
+        "blood berserker’s wrath_جنون دیوانه‌خون",
+        489
+    ],
+    " anna": [
+        "anna_آنا",
+        491
+    ],
+    " batish": [
+        "batish_بتیش",
+        492
+    ],
+    " epanem": [
+        "epanem_اپانم",
+        493
+    ],
+    " presha": [
+        "presha_پریشا",
+        494
+    ],
+    " giles": [
+        "giles_جیلز",
+        495
+    ],
+    " liam": [
+        "liam_لیام",
+        496
+    ],
+    " ellis": [
+        "ellis_الیس",
+        497
+    ],
+    " versa": [
+        "versa_ورسا",
+        498
+    ],
+    " mercenary": [
+        "mercenary_مزدور",
+        499
+    ],
+    " edgar": [
+        "edgar_ادگار",
+        500
+    ],
+    " winfield": [
+        "winfield_وینفیلد",
+        501
+    ],
+    " dixon": [
+        "dixon_دیکسن",
+        502
+    ],
+    " zivell": [
+        "zivell_زیول",
+        503
+    ],
+    " judge": [
+        "judge_قاضی",
+        504
+    ],
+    " anworth": [
+        "anworth_آنورث",
+        505
+    ],
+    " albert": [
+        "albert_آلبرت",
+        506
+    ],
+    " mea": [
+        "mea_میا",
+        507
+    ],
+    " hangman": [
+        "hangman_جلاد",
+        508
+    ],
+    " firestorm": [
+        "firestorm_توفان آتش",
+        509
+    ],
+    " edmund": [
+        "edmund_ادموند",
+        510
+    ],
+    " zack": [
+        "zack_زک",
+        511
+    ],
+    " blueprints": [
+        "blueprints_نقشه ساخت",
+        512
+    ],
+    " concubine": [
+        "concubine_هم‌خوابه",
+        513
+    ],
+    " ‌herald": [
+        "herald_هرالد",
+        514
+    ],
+    " rick": [
+        "rick_ریک",
+        515
+    ],
+    " helena": [
+        "helena_هلنا",
+        516
+    ],
+    " juniors": [
+        "juniors_تازه‌واردها",
+        517
+    ],
+    " ‌sammuel": [
+        "sammuel_ساموئل",
+        518
+    ],
+    " hellfire": [
+        "hellfire_هل‌فایر",
+        519
+    ],
+    " ‌thermonuclear energy nullifier": [
+        "thermonuclear energy nullifier_خنثی‌کننده انرژی گرما هسته‌ای",
+        520
+    ],
+    " ‌   ‌elders": [
+        "elders_ارشدها",
+        521
+    ],
+    " xueyua": [
+        "xueyua_شو یوآ",
+        522
+    ],
+    " shao tao": [
+        "shao tao_شائو تائو",
+        523
+    ],
+    " jianhong": [
+        "jianhong_جیانگ هونگ",
+        524
+    ],
+    " xicheng": [
+        "xicheng_شیچنگ",
+        525
+    ],
+    " lei": [
+        "lei_لی",
+        526
+    ],
+    " delan": [
+        "delan_دلان",
+        527
+    ],
+    " mithril": [
+        "mithril_میثریل",
+        528
+    ],
+    " angelo": [
+        "angelo_آنجلو",
+        529
+    ],
+    " yuetan": [
+        "yuetan_یوتان",
+        530
+    ],
+    " xiaochao": [
+        "xiaochao_شیائوچائو",
+        531
+    ],
+    " eleanora": [
+        "eleanora_النورا",
+        532
+    ],
+    " zombification": [
+        "zombification_فرآیند زامبی‌شدن",
+        533
+    ],
+    " ‌portal": [
+        "portal_پورتال",
+        534
+    ],
+    " xinyue": [
+        "xinyue_شین یوئه",
+        535
+    ],
+    " rebuff": [
+        "rebuff_بازتقویت",
+        536
+    ],
+    " aotian": [
+        "aotian_آئوتیان",
+        537
+    ],
+    " legion": [
+        "legion_لژیون",
+        538
+    ],
+    " first princess": [
+        "first princess_شاهدخت اول",
+        539
+    ],
+    " divine agility": [
+        "divine agility_چابکی آسمانی",
+        540
+    ],
+    " second princess seraphina ellis": [
+        "second princess seraphina ellis_شاهدخت دوم سرافین الیس",
+        541
+    ],
+    " proud general": [
+        "proud general_ژنرال بزرگ ریک",
+        542
+    ],
+    " gales": [
+        "gales_گیلز",
+        543
+    ],
+    " world priestess": [
+        "world priestess_کاهن جهان",
+        544
+    ],
+    " seraphina di gales": [
+        "seraphina di gales_سرافین دی گیلز",
+        545
+    ],
+    " fresh soul fruit": [
+        "fresh soul fruit_میوه‌ی روح تازه",
+        546
+    ],
+    " ‌  world guardian": [
+        "world guardian_نگهبانان جهان",
+        547
+    ],
+    " stats": [
+        "stats_آمار",
+        548
+    ],
+    " will of": [
+        "will of_اراده‌ی",
+        549
+    ],
+    " ‌eventide world": [
+        "eventide world_شامگاه جهان",
+        550
+    ],
+    " purification of glory": [
+        "purification of glory_تطهیر افتخار",
+        551
+    ],
+    " kingdom": [
+        "kingdom_پادشاهی",
+        552
+    ],
+    " soul rupture": [
+        "soul rupture_گسستن روح",
+        553
+    ],
+    " light dragon assault": [
+        "light dragon assault_حمله اژدهای روشنایی",
+        554
+    ],
+    " devoured by darkness": [
+        "devoured by darkness_بلعنده تاریکی",
+        555
+    ],
+    " decadence of the stars": [
+        "decadence of the stars_انحطاط ستارگان",
+        556
+    ],
+    " bloody prowler's pants": [
+        "bloody prowler's pants_شلوار پرنده خونین",
+        558
+    ],
+    " thunder red steel grips": [
+        "thunder red steel grips_چنگال‌های آهنین صاعقه سرخ",
+        559
+    ],
+    " ‌   greatcloak of infernal fire": [
+        "greatcloak of infernal fire_شنل اعظم آتش جهنمی",
+        560
+    ],
+    " soul shoulders of bloodshed": [
+        "soul shoulders of bloodshed_شانه‌بندهای روح خون‌ریز",
+        561
+    ],
+    " ‌  ‌legplates of unholy vengeance": [
+        "legplates of unholy vengeance_ساقبندهای انتقام نامقدس",
+        562
+    ],
+    " solitude's armor of infinite trials": [
+        "solitude's armor of infinite trials_تک زره آزمون‌های بی‌پایان",
+        564
+    ],
+    " ‌ ‌unclassified passive skill": [
+        "unclassified passive skill_مهارت فعال طبقه‌بندی نشده",
+        565
+    ],
+    " ‌ evolution requirements": [
+        "evolution requirements_نیازمندی‌های تکامل",
+        566
+    ],
+    " ‌ special forces soldier": [
+        "special forces soldier_سرباز نیروهای ویژه",
+        567
+    ],
+    " super warrior": [
+        "super warrior_ابر مبارز",
+        568
+    ],
+    " ‌ blood immortal radiance": [
+        "blood immortal radiance_تابش خون نامیرا",
+        570
+    ]
+}

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="jquery.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $('#add2NL_frm').submit(function(e) {
+                e.preventDefault(); // Prevent the form from submitting normally
+
+                // Get the form data
+                var formData = new FormData(this);
+                formData.append = ("Form_Type","add2NL");
+                // Send the AJAX request
+                $.ajax({
+                    type: 'POST',
+                    url: 'factory.php', // Replace with the actual URL
+                    data: formData,
+                    processData: false, // Prevent jQuery from processing the data
+                    contentType: false, // Prevent jQuery from setting the content type
+                    // action: 'add2NL_frm',
+                    success: function(response) {
+                        // Assuming the response contains the answer
+                        $('#add2NL_btn').html(response);
+                    },
+                    error: function() {
+                        console.error('Error: Request failed');
+                    }
+                });
+            });
+        });
+    </script>
+</head>
+<body>
+    <form class="form_container" name="add2NL_frm" id="add2NL_frm">
+        <div class="select_file">
+            <label for="add_txNL">Select TXT file:</label>
+            <input type="file" class="add_txtNL" name="add_txtNL" id="add_txtNL" multiple>
+        </div>
+        <div class="select_file">
+            <label for="add_jsNL">Select JSON file:</label>
+            <input type="file" class="add_jsNL" name="add_jsNL" id="add_jsNL">
+        </div>
+        <input type="submit" class="sub_meat">
+    </form>
+    <p id="add2NL_btn" class="add2NL_btn result_btn"></p>
+</body>
+</html>
