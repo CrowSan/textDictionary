@@ -7,6 +7,13 @@ body{
 
 main{
     display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+}
+
+.formWrapper{
+    display: flex;
     flex-direction: row;
     gap: 15px;
 }
@@ -20,4 +27,21 @@ form{
 .btn{
     width: 30%;
     margin-left: 35%;
+}
+
+.dlLink:empty{
+    display: none;
+}
+
+.dlLink{
+    width: 20%;
+    text-align: center;
+    border: 1px solid #0000ff30;
+    border-radius: 3px;
+    padding: 5px;
+    text-decoration: none;
+    color: blue;
+    background: aliceblue;
+    box-shadow: 2px 2px 7px 0px #0075ff26;
+    margin-top: 30px;
 }
