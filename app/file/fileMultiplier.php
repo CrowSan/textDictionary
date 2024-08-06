@@ -26,7 +26,7 @@ class fileMultiplier{
             //extracting chapters based on numbers
             if ($startPos !== false && $endPos !== false) {
                 $chExtracted = substr($this->text, $startPos, $endPos - $startPos);
-                $fileName = "ch{$this->start} - ch{$chEnd}";
+                $fileName = "ch{$this->start} - ch" . $chEnd-1;
                 file_put_contents("upload/$fileName.txt", $chExtracted);
                 // header("location:index.php?dlLink=". "upload/{$fileName}.txt" ."&fileName=" . "{$fileName}.txt");
 
