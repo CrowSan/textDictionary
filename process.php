@@ -35,10 +35,15 @@ if (array_key_exists('numToName', $_POST)) {
 }
 
 if (array_key_exists('fileMulti', $_POST)) {
-    echo "<pre>";
-    print_r($_POST);
-    echo "<hr>";
-    print_r($_FILES);
+    $textFile = $_FILES['textFile']['tmp_name'];
+    $textName = $_FILES['textFile']['name'];
+    $start = $_POST['startNum'];
+    $end = $_POST['endNum'];
+
+    echo $textFile . "<br>";
+    echo $textName . "<br>";
+    echo $start . "<br>";
+    echo $end . "<br>";
 
 }
 

@@ -1,5 +1,6 @@
 <?php
 
+// "Chapter 101((.|\n)*)chapter 105"
 $file = "";
 $firstChapter = "";
 $finalChapter = "";
