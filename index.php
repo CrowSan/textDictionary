@@ -44,7 +44,7 @@
                     <label for="textFile">Select English File</label>
                     <input type="file" name="textFile" accept=".txt" required>
     
-                    <label for="startNum">Enter start and end number</label>
+                    <label for="startNum">Enter start and last chapter number</label>
                     <div class="numInput">
                         <input type="number" name="startNum" required>
                         <input type="number" name="endNum"  required>

@@ -36,15 +36,16 @@ if (array_key_exists('numToName', $_POST)) {
 
 if (array_key_exists('fileMulti', $_POST)) {
     $textFile = $_FILES['textFile']['tmp_name'];
-    $textName = $_FILES['textFile']['name'];
     $start = $_POST['startNum'];
     $end = $_POST['endNum'];
 
     echo $textFile . "<br>";
-    echo $textName . "<br>";
     echo $start . "<br>";
     echo $end . "<br>";
 
+  include "app/file/fileMultiplier.php";
+  $multi = new fileMultiplier($textFile, $start, $end);
+  $multi->seperator();
 }
 
 
