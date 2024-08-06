@@ -72,6 +72,7 @@ form{
     box-shadow: 2px 2px 7px 0px #0075ff26;
     margin-top: 30px;
     align-self: center;
+    position: absolute;
 }
 
 input::-webkit-outer-spin-button, input::-webkit-inner-spin-button {
