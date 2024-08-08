@@ -36,7 +36,7 @@ class fileMultiplier{
             }
 
             // add 5 to starting chapter to start the loop again
-            $this->start +=5;
+            $this->start +=$this->parting;
         }
 
     }
