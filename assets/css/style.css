@@ -13,8 +13,7 @@ main{
 .Section1{
     display: flex;
     flex-direction: row;
-    gap: 20px;
-    align-items: center;
+    gap: 15px;
     justify-content: space-around;
 }
 
@@ -22,22 +21,23 @@ main{
     display: flex;
     flex-direction: row;
     gap: 15px;
-    align-items: center;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 form{
     display: flex;
-    flex-direction: column;
     gap: 15px;
     align-items: center;
+    flex-direction: column;
 }
 
 .formWrapper{
+    display: flex;
     background-color: #687b45;
     padding: 5px 25px;
-    padding-bottom: 10px;
+    padding-bottom: 20px;
     border-radius: 10px;
+    align-items: center;
 }
 
 .btn:hover {
@@ -115,3 +115,17 @@ input[type="file"] {
     padding: 5px 0px;
     border-radius: 5px;
 }
+
+input[type="text"] {
+    background-color: #a7c279;
+    border: none;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+::placeholder {
+    color: gray;
+    opacity: 1; /* Firefox */
+    font-size: small;
+  }
+  

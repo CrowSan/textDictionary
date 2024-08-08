@@ -9,22 +9,19 @@ function remove_persian($mixNames){
 
 
 
-function new_NL_byOne($nameLisfile, $jsonFileName){
+function new_NL_byOne($nameLisfile, $fileName){
     // Assuming $numberedNL is the new data you want to append
-    $enNamStr = strtolower(file_get_contents("{$nameLisfile}"));
+    $nameStr = strtolower(file_get_contents($nameLisfile));
     
     //make array from string of data
-    $valueNamesArray = explode("\n" ,$enNamStr);
-    $nopersian = remove_persian($enNamStr);
-    $keyNamesArray = explode("++" ,$nopersian);
-    // echo "<pre>";
-    // print_r($valueNamesArray);
-    // echo "<pre>";
-    // print_r($keyNamesArray);
+    $valueNamesArray = explode("\n" ,$nameStr);
+    $nopersian = remove_persian($nameStr);
+    $keyNamesArray = explode("--" ,$nopersian);
 
     //make a combined array for NL
     $newNames = array_combine($keyNamesArray, $valueNamesArray);
     $noEmptyValue = array_filter($newNames);
+
     //add number as second value of each key
     $twoDIMArray = [];
     $i = 0;
@@ -40,18 +37,19 @@ function new_NL_byOne($nameLisfile, $jsonFileName){
     
     // Matches \r\n and remove them
     $replace_NewLines = str_replace(['\r\n', '\r'], "", $utf8Data);
-    $replace_Dividers = str_replace("++", "_", $replace_NewLines);
+    $replace_Dividers = str_replace("--", "_", $replace_NewLines);
+
     // Matches one or more whitespace characters at the beginning of the string
     $pattern = '/(?<=")\s+/'; 
     $replace_Spaces = preg_replace($pattern, "", $replace_Dividers);
+
     // adds a white space to begining of the keys to make them find better
     $pattern_to_addSpace = '/"([^"]+)"/'; 
-    $add_Space = preg_replace($pattern_to_addSpace, '" $1"', $replace_Spaces);
-    // Confirm success or handle any errors
-    // echo  "<pre>" . "انجام شد✔" . PHP_EOL;
-    // print_r($add_Space);
-    file_put_contents("json/NL_{$jsonFileName}.json", $add_Space);
-    echo "json/NL_{$jsonFileName}.json";
+    $enhancedNameList = preg_replace($pattern_to_addSpace, '" $1"', $replace_Spaces);
+
+
+    file_put_contents("json/NL_{$fileName}.json", $enhancedNameList);
+    echo "json/NL_{$fileName}.json";
 };
 
 

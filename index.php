@@ -53,6 +53,21 @@
                     <input type="submit" name="fileMulti" class="btn">
                 </form>
             </div>
+            <div class="formWrapper">
+                <form action="process.php" method="post" name="nameList" enctype="multipart/form-data">
+                    <h1>NameList creator</h1>
+                    <label for="textFile">Select new namelist File</label>
+                            <input type="file" name="textFile" accept=".txt">
+                            
+                            <label for="jsonFile">Select old NameList File</label>
+                            <input type="file" name="jsonFile" accept=".json">
+
+                            <label for="fileName">Enter a name for file</label>
+                            <input type="text" name="fileName">
+
+                            <input type="submit" name="nameList" class="btn">
+                </form>
+            </div>
         </div>
 
             <a href="<?php if (isset($_GET['dlLink'])) {echo $_GET['dlLink'];}?>" class="dlLink" download><?php if (isset($_GET['fileName'])) {echo $_GET['fileName'];}?></a>
