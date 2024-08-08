@@ -46,8 +46,9 @@
     
                     <label for="startNum">Enter start and last chapter number</label>
                     <div class="numInput">
-                        <input type="number" name="startNum" required>
-                        <input type="number" name="endNum"  required>
+                        <input type="number" name="startNum" placeholder="start" required>
+                        <input type="number" name="endNum"  placeholder="end" required>
+                        <input type="number" name="partingNum"  placeholder="per part" required>
                     </div>
     
                     <input type="submit" name="fileMulti" class="btn">

@@ -38,9 +38,10 @@ if (array_key_exists('fileMulti', $_POST)) {
     $textFile = $_FILES['textFile']['tmp_name'];
     $start = $_POST['startNum'];
     $end = $_POST['endNum'];
+    $parting = $_POST['partingNum'];
 
   include "app/file/fileMultiplier.php";
-  $multi = new fileMultiplier($textFile, $start, $end);
+  $multi = new fileMultiplier($textFile, $start, $end, $parting);
   $multi->seperator();
 }
 

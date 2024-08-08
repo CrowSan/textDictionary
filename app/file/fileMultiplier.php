@@ -5,19 +5,22 @@ class fileMultiplier{
     private $text;
     private $start;
     private $end;
+    private $parting;
     
     
-    public function __construct($text, $start, $end)
+    public function __construct($text, $start, $end, $parting)
     {
         $this->text = file_get_contents($text);
         $this->start = $start;
         $this->end = $end;
+        $this->parting = $parting;
+
     }
     
     public function seperator(){
 
         while ($this->start <= $this->end) {
-            $chEnd = $this->start + 5;
+            $chEnd = $this->start + $this->parting;
 
             //finding starting chapter position and the Last chapter
             $startPos = strpos($this->text, $this->start);
