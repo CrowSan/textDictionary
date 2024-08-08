@@ -48,21 +48,9 @@ if (array_key_exists('nameList', $_POST)) {
   $textFile = $_FILES['textFile']['tmp_name'];
   $fileName = $_POST['fileName'];
 
-  if (!empty($_FILES['jsonFile']['name'])) {
-    if (!jsonValidator($_FILES['jsonFile'])) {
-      echo "json validation failed<br>";
-      return false;
-    }
-      $jsonFile = $_FILES['jsonFile']['tmp_name'];
-      echo $jsonFile . "<br>";
-  }
-
-  echo $textFile . "<br>";
-  echo $fileName . "<br>";
-
-// include "app/file/fileMultiplier.php";
-// $multi = new fileMultiplier($textFile, $start, $end);
-// $multi->seperator();
+  include "app/file/nameList.php";
+  $nameList = new NameList($textFile, $fileName);
+  $nameList->NameListCreator();
 }
 
 

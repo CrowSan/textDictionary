@@ -4,7 +4,7 @@ class NameList{
     private $text;
     private $name;
 
-    public function __construct($text=null, $name="New NameList")
+    public function __construct($text, $name)
     {
         $this->text = strtolower(file_get_contents($text));
         $this->name =$name;

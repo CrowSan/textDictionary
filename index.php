@@ -58,9 +58,6 @@
                     <h1>NameList creator</h1>
                     <label for="textFile">Select new namelist File</label>
                             <input type="file" name="textFile" accept=".txt">
-                            
-                            <label for="jsonFile">Select old NameList File</label>
-                            <input type="file" name="jsonFile" accept=".json">
 
                             <label for="fileName">Enter a name for file</label>
                             <input type="text" name="fileName">
