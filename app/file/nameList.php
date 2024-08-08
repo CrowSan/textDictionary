@@ -57,6 +57,8 @@ class NameList{
         $enhancedNameList = preg_replace($pattern_to_addSpace, '" $1"', $replace_Spaces);
 
         file_put_contents("upload/{$this->name}_NameList.json", $enhancedNameList);
+        header("location:index.php?dlLink=". "upload/{$this->name}_NameList.json" ."&fileName=" . "{$this->name}_NameList.json");
+
     }
 
     
