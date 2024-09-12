@@ -92,7 +92,7 @@ class NameList{
         $utf8Data = mb_convert_encoding($data, 'UTF-8');
         // Matches \r\n and remove them
         $replace_NewLines = str_replace(['\r\n', '\r'], "", $utf8Data);
-        $replace_Dividers = str_replace("--", "-", $replace_NewLines);
+        $replace_Dividers = str_replace("--", "_", $replace_NewLines);
         // Matches one or more whitespace characters at the beginning of the string
         $pattern = '/(?<=")\s+/'; 
         $replace_Spaces = preg_replace($pattern, "", $replace_Dividers);

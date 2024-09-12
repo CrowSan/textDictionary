@@ -23,21 +23,20 @@ class fileMultiplier{
             $chEnd = $this->start + $this->parting;
 
             //finding starting chapter position and the Last chapter
-            $startPos = strpos($this->text, $this->start);
-            $endPos = strpos($this->text, $chEnd);
+            $startPos = strpos($this->text, "Chapter $this->start");
+            $endPos = strpos($this->text, "Chapter $chEnd");
             
             //extracting chapters based on numbers
             if ($startPos !== false && $endPos !== false) {
                 $chExtracted = substr($this->text, $startPos, $endPos - $startPos);
                 $fileName = "ch{$this->start} - ch" . $chEnd-1;
                 file_put_contents("upload/$fileName.txt", $chExtracted);
-                // header("location:index.php?dlLink=". "upload/{$fileName}.txt" ."&fileName=" . "{$fileName}.txt");
 
-            }
-
+            } 
             // add 5 to starting chapter to start the loop again
             $this->start +=$this->parting;
         }
+        header("location:index.php?dlLink=". "upload/" ."&fileName=" . "process has be done");
 
     }
 
