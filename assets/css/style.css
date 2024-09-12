@@ -22,6 +22,7 @@ main{
     flex-direction: row;
     gap: 15px;
     justify-content: space-around;
+    flex-wrap: wrap;
 }
 
 form{

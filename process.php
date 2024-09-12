@@ -16,8 +16,9 @@ if (array_key_exists('nameToNum', $_POST)) {
     include_once "app/text/textNumberer.php";
     $numCls = new \app\text\textNumberer($textFile, $jsonFile, $textName);
     $numCls -> numberText();
+    } else {
+      echo "nameToNum Validation failed";
     }
-    echo "nameToNum Validation failed";
 
 }
 
@@ -54,4 +55,17 @@ if (array_key_exists('nameList', $_POST)) {
   $nameList->NameListCreator();
 }
 
+if (array_key_exists('nameExtractor', $_POST)) {
+  if (validator($_FILES['textFile'],$_FILES['jsonFile'])) {
+    $textFile = $_FILES['textFile']['tmp_name'];
+    $jsonFile = $_FILES['jsonFile']['tmp_name'];
+    $textName = $_FILES['textFile']['name'];
 
+    include_once "app/file/nameExtractor.php";
+    $extactNames = new nameExtractor($textFile, $jsonFile, $textName);
+    $extactNames -> extract();
+  } else {
+      echo "name extraction Validation failed";
+  }
+
+}

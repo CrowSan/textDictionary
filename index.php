@@ -66,6 +66,19 @@
                             <input type="submit" name="nameList" class="btn">
                 </form>
             </div>
+                <div class="formWrapper">
+                        <form action="process.php" method="post" name="nameExtractor" enctype="multipart/form-data">
+                            <h1>Name Extractor</h1>
+                            <label for="textFile">Select English File</label>
+                            <input type="file" name="textFile" accept=".txt" required>
+                            
+                            <label for="jsonFile">Select NameList File</label>
+                            <input type="file" name="jsonFile" accept=".json" required>
+
+                            <input type="submit" name="nameExtractor" class="btn">
+                        </form>
+                    </div>
+            </div>
         </div>
 
             <a href="<?php if (isset($_GET['dlLink'])) {echo $_GET['dlLink'];}?>" class="dlLink" download><?php if (isset($_GET['fileName'])) {echo $_GET['fileName'];}?></a>
