@@ -67,7 +67,7 @@ function add2NL($new_list_of_names, $jsonFileName){
     $valueNamesArray = explode("\n" ,$enNamStr);
     // $nopersian = remove_persian($enNamStr);
     $nopersian = remove_persian($enNamStr);
-    $keyNamesArray = explode("++" ,$nopersian);
+    $keyNamesArray = explode("--" ,$nopersian);
 
     //make a combined array for NL(NameList)
     $newNames = array_combine($keyNamesArray, $valueNamesArray);

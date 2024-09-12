@@ -46,13 +46,23 @@ if (array_key_exists('fileMulti', $_POST)) {
   $multi->seperator();
 }
 
-if (array_key_exists('nameList', $_POST)) {
+if (array_key_exists('nameListCreate', $_POST)) {
   $textFile = $_FILES['textFile']['tmp_name'];
   $fileName = $_POST['fileName'];
 
   include "app/file/nameList.php";
   $nameList = new NameList($textFile, $fileName);
   $nameList->NameListCreator();
+}
+
+if (array_key_exists('nameListUpdate', $_POST)) {
+  $textFile = $_FILES['textFile']['tmp_name'];
+  $jsonFile = $_FILES['jsonFile']['tmp_name'];
+  $fileName = $_POST['fileName'];
+
+  include "app/file/nameList.php";
+  $nameList = new NameList($textFile, $fileName,  $jsonFile);
+  $nameList->NameListUpdater();
 }
 
 if (array_key_exists('nameExtractor', $_POST)) {
